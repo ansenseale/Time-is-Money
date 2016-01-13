@@ -7,4 +7,4 @@ Time is Money is an analog timekeeping device displaying hours, minutes and seco
 
 https://www.youtube.com/watch?v=B5o1Wf9XArw
 
-http://www.ansenseale.com/pa-photos/69654_md.jpg
+<img src="http://www.ansenseale.com/pa-photos/69654_md.jpg">
